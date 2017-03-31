@@ -242,6 +242,11 @@ transform: scale(0.8,0.8);
 	height				:	480px;
 }
 
+#smallCanvas {
+	width				:	240px;
+	height				:	240px;
+}
+
 .socialButton {
 	display					:	inline;
 	width					:	70px;
